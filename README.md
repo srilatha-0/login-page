@@ -1,11 +1,18 @@
 # Login Form with Validation
 
-A simple HTML/CSS/JavaScript login form with basic client-side validation for phone, Gmail, and pincode fields.
+A simple HTML/CSS/JavaScript login form with client-side validation.
 
 ## Features
-- Responsive layout
-- Input validation using JavaScript
-- Clean UI with CSS styling
+- Validates phone number, Gmail address, and pincode.
+- Responsive and clean UI using CSS.
+- Error messages for invalid input.
 
-## How to Run
-Open `index.html` in your browser.
+## How to Use
+1. Open `index.html` in any browser.
+2. Fill out the form and click **Submit**.
+3. Validation errors (if any) will show below each field.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
